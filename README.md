@@ -1,9 +1,12 @@
 [![author](https://img.shields.io/badge/Author-Gabriel&nbsp;Rodrigues-red.svg)](linkedin.com/in/gabrielralves/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+# Case iFood - Descrição do case
+
+Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos. Atualmente, eles têm cerca de vários milhares de clientes registrados e atendem quase um milhão de consumidores por ano. Eles vendem produtos de 5 grandes categorias: vinhos, carnes, frutas exóticas, peixes especialmente preparados e produtos doces. Estes podem ser divididos ainda mais em produtos de *gold* e regulares. Os clientes podem encomendar e adquirir produtos por meio de 3 canais de vendas: lojas físicas, catálogos e site da empresa. Globalmente, a empresa teve receitas sólidas e uma linha de fundo saudável nos últimos 3 anos, mas as perspectivas de crescimento dos lucros para os próximos 3 anos não são promissoras... Por esse motivo, várias iniciativas estratégicas estão sendo consideradas para inverter essa situação. Um deles é melhorar o desempenho das atividades de marketing, com foco especial em campanhas de marketing.
 
 # Case iFood - Analista de dados
 
-Este projeto simula uma análise baseada em um processo seletivo para a posição de Analista de Dados no iFood. A empresa fictícia atua no setor de varejo de alimentos, atendendo milhares de clientes anualmente e vendendo produtos em cinco categorias principais: vinhos, carnes, frutas exóticas, peixes especialmente preparados e produtos doces. Os produtos são divididos em duas classes: *gold* e regulares, e são vendidos por meio de três canais: lojas físicas, catálogos e o site da empresa.
+Este projeto simula uma análise baseada em um processo seletivo para a posição de Analista de Dados no iFood. A empresa atua no setor de varejo de alimentos, atendendo milhares de clientes anualmente e vendendo produtos em cinco categorias principais: vinhos, carnes, frutas exóticas, peixes especialmente preparados e produtos doces. Os produtos são divididos em duas classes: *gold* e regulares, e são vendidos por meio de três canais: lojas físicas, catálogos e o site da empresa.
 
 Nos últimos três anos, a empresa manteve uma receita sólida, mas as projeções de crescimento futuro não são promissoras. Por isso, uma das iniciativas estratégicas é melhorar o desempenho das campanhas de marketing para reverter esse cenário.
 
