@@ -22,7 +22,7 @@ Para mais detalhes sobre o case, acesse [aqui](case/README.md).
 
 ## Objetivos do Projeto
 
-O principal objetivo deste projeto é ensinar como estruturar um projeto de dados real, mostrando a importância do pré-processamento e da análise exploratória de dados. O projeto também discute como apresentar resultados de forma eficaz para diferentes públicos: técnicos e não técnicos.
+O principal objetivo deste projeto é demonstrar a importância do pré-processamento e da análise exploratória de dados em um contexto real. Além disso, o projeto destaca como apresentar resultados de maneira eficaz para diferentes públicos: técnicos e não técnicos.
 
 ### Objetivos detalhados:
 
@@ -30,7 +30,7 @@ O principal objetivo deste projeto é ensinar como estruturar um projeto de dado
 - Segmentar os clientes da base de dados.
 - Construir um modelo de classificação para prever se um cliente irá comprar um produto durante uma campanha.
 - Demonstrar boas práticas em projetos de Ciência de Dados, utilizando notebooks, scripts, relatórios e repositórios no GitHub.
-- Ensinar boas práticas de programação em Python, como o uso de funções e scripts para reaproveitamento de código.
+- Seguir boas práticas de programação em Python, como o uso de funções e scripts para reaproveitamento de código.
 - Aplicar boas práticas no uso do SciKit-Learn, com pipelines e otimização de hiperparâmetros.
 
 ## Estrutura do Repositório
