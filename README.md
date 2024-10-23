@@ -17,7 +17,7 @@ Este projeto foi utilizado em um curso de Ciência de Dados oferecido pela [Hash
 Para mais detalhes sobre o case, acesse [aqui](case/README.md).
 
 <p align="center"> 
-  <a href="linkedin.com/in/gabrielralves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielralves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ## Objetivos do Projeto
