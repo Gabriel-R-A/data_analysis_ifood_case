@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Gabriel&nbsp;Rodrigues-red.svg)](linkedin.com/in/gabrielralves/)
+[![author](https://img.shields.io/badge/Author-Gabriel&nbsp;Rodrigues-red.svg)](https://www.linkedin.com/in/gabrielralves/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 # Case iFood - Descrição do case
 
